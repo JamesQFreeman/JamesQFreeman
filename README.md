@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a PhD student at Shanghai Jiao Tong University. I’m currently working on computer vision.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesQFreeman&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
