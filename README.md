@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm a PhD candidate at Shanghai Jiao Tong University. I am currently working on machine learning problems that are oriented towards healthcare. My goal is for computers to learn efficiently so that they can help address the shortage of healthcare professionals around the world.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesQFreeman&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
